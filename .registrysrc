@@ -1,0 +1,4 @@
+{
+     "rejectUnauthorized": false,
+     "registryURL": "https://registry.npmjs.org/"
+}
