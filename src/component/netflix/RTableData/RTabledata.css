@@ -1,0 +1,9 @@
+.RTabledata{
+    height: 500px;
+    width: 80%;
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    margin-left: 100px;
+    border-radius: 7px;
+}

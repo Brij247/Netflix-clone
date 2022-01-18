@@ -1,0 +1,28 @@
+.table-cont{
+    background-color: white;
+    padding: 100px;
+    
+}
+h3{
+    height: 50px;
+    color: #aca1a1;
+    font-weight: 500;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: rgb(82, 82, 83);
+    
+    
+}
+.table-container{
+    width: 100%;
+  
+}
+
+.head{
+    background-color: rgb(209, 209, 209);
+    font-size: 25px;
+    
+}
